@@ -53,7 +53,7 @@ class Saved extends Component {
                     >
                     </SavedList>
                 ) : (
-                    <h5>No results to display</h5>
+                    <h5>No results to display... Save a book!</h5>
                 )}
                 </Container>
             </div>

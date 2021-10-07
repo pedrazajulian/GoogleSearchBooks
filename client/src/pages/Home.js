@@ -80,7 +80,7 @@ class Home extends Component {
                 ) : (
                     <div>
                         <hr/>
-                    <p style={{fontStyle: "italic"}}>No results to display Try again!</p>
+                    <p style={{fontStyle: "italic"}}>No results to display</p>
                     </div>
                 )}
                 

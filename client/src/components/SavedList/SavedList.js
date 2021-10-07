@@ -3,6 +3,7 @@ import SavedListItem from "../SavedListItem/SavedListItem";
 
 class ResultList extends Component {
 
+    
 
     render() {
         console.log("Props", this.props.bookState)
@@ -23,6 +24,7 @@ class ResultList extends Component {
                            
     }
 }
+
 
 export default ResultList
 

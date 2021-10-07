@@ -22,7 +22,7 @@ class Saved extends Component {
             this.getBooks();
         })
         .catch(err => {
-            console.log("This is the error", err);
+            console.log("error", err);
         })
     }
 
@@ -35,7 +35,7 @@ class Saved extends Component {
             console.log("This is the res from getBooks", res);
         })
         .catch(err => {
-            console.log("This is the error", err);
+            console.log("error", err);
         })
     }
 
